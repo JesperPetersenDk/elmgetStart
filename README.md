@@ -17,4 +17,4 @@ Der efter går du ind i mappen og bruger disse oplysninger:
 
 7. `elm reactor`
 
-**Er der brugt `elm reactor` så skriv localhost:8080 og der efter gå ind i src og så find den fil man har lavet**
+**Er der brugt `elm reactor` så skriv localhost:8000 og der efter gå ind i src og så find den fil man har lavet**
